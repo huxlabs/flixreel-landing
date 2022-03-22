@@ -1,0 +1,13 @@
+{
+  "short_name": "Flixreel",
+  "name": "Flixreel",
+  "start_url": "/",
+  "background_color": "#000",
+  "display": "standalone",
+  "theme_color": "#000",
+  "description": "Flixreel | The ultimate source to discover your next favorite movie or show, create watchlists, and stay up-to-date with your favorite stars.",
+  "icons": [
+    { "src": "/images/icon-192.png", "type": "image/png", "sizes": "192x192", "purpose": "any maskable" },
+    { "src": "/images/icon-512.png", "type": "image/png", "sizes": "512x512" }
+  ]
+}
